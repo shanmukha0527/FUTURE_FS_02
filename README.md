@@ -75,12 +75,3 @@ futureintern-FUTURE_FS_02/
 └── README.md
 📜 License
 MIT License
-
-🙋‍♂️ Author
-Shanmukha – GitHub Profile
-
-css
-Copy
-Edit
-
-You can paste this into a file named `README.md` in your repo. Let me know if you’d like to add a
