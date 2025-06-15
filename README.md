@@ -1,4 +1,9 @@
-# 🌦️ Weather Dashboard
+🔗 Live Demo
+
+🌐 **[Click here to view the live site](https://future-fs-02.netlify.app/)**  
+Hosted on **Netlify**
+
+ 🌦️ Weather Dashboard
 
 > **Internship:** FutureIntern  
 > **Task:** FUTURE_FS_02
@@ -7,12 +12,12 @@ A responsive and interactive weather dashboard that provides real-time weather d
 
 ---
 
-## 🔗 GitHub Repository
+ 🔗 GitHub Repository
 
 **[View the Code on GitHub](https://github.com/shanmukha0527/FUTURE_FS_02)
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 - 🔍 Search for any city’s weather
 - 📅 5-day forecast visualization
@@ -23,7 +28,7 @@ A responsive and interactive weather dashboard that provides real-time weather d
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
@@ -32,7 +37,7 @@ A responsive and interactive weather dashboard that provides real-time weather d
 
 ---
 
-## 📦 Installation
+ 📦 Installation
 
 1. Clone the repository:
 
